@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a8a92cad-53d9-b3ff-a1ff-2d1e19c6815a
 ---
@@ -47,7 +49,7 @@ _The Solar Resource
 _  
 Solar Geometry - Direct Beam Flux onto a Surface "In Space"  
   
-Earth-bound Flux - Kt, the "Clearness Index"
+Earth-bound Flux - K{{< sub "t" >}}, the "Clearness Index"
 {{< tdclose >}}
 {{< tdopen >}}
 Exercise #1 due

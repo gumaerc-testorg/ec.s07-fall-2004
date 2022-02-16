@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s07-photovoltaic-solar-energy-systems-fall-2004/9b851de9cbf286eeeb3219a21f1d1eef_MITEC_S07F04_san_juan_pr.pdf
+file: /media/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/9b851de9cbf286eeeb3219a21f1d1eef_MITEC_S07F04_san_juan_pr.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: San Juan, PR
 uid: 9b851de9-cbf2-86ee-eb32-19a21f1d1eef
