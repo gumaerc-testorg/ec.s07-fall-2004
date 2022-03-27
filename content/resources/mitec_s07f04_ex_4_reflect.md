@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fe8f8c4-27e2-e10f-2bbb-1e76df54d0ea
 resourcetype: Document
 title: Exercise 4 Reflections-PV Solar Energy Systems
 uid: 6b34ac7e-6c0d-6229-336b-854110c46be3

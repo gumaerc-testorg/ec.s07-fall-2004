@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 250c1609-254e-4d33-4b5b-4cf7f82880f7
 resourcetype: Document
 title: Sioux City, IA
 uid: 861b7da3-913b-14f7-e29d-7adafe38133e

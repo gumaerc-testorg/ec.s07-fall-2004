@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a352a07-ed1e-930e-316c-c2ba22e4b6b1
 resourcetype: Document
 title: Photovoltaic Systems-Least Squares Fit of Straight Line to Data
 uid: 45c31263-a0c0-4d64-bd85-71535d3c4cac

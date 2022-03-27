@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a352a07-ed1e-930e-316c-c2ba22e4b6b1
 resourcetype: Document
 title: Photovoltaic Solar Energy Systems - The Solar Resource
 uid: 623bd82d-15fd-7791-d6fd-973b743d7e44

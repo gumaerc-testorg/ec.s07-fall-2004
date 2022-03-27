@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fe8f8c4-27e2-e10f-2bbb-1e76df54d0ea
 resourcetype: Document
 title: Exercise 3 PV Solar Energy Systems
 uid: dfb82549-39c4-e250-b0f6-ebc75d326c19

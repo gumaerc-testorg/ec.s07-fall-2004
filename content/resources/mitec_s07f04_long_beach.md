@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 250c1609-254e-4d33-4b5b-4cf7f82880f7
 resourcetype: Document
 title: Long Beach, CA
 uid: 84a64a6b-0352-077b-cb9f-5e95db545e59
