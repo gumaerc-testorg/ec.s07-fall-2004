@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "The Photovoltaic Panel Simulation Java\xAE applet was developed for\
+  \ the course by Prof. Louis Bucciarelli and Gregory Schroll, and was based on the\
+  \ work of Stefano Trevisi. You can use it to see how different factors affect solar\
+  \ energy collection throughout different times of the year."
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
