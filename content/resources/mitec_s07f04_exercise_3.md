@@ -6,6 +6,7 @@ file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/dfb8254939c4e2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Exercise 3 PV Solar Energy Systems
 uid: dfb82549-39c4-e250-b0f6-ebc75d326c19
 ---
 This file contains information regarding homework assignment instructions. Each of these homework exercises are intended build up to the final report.
-

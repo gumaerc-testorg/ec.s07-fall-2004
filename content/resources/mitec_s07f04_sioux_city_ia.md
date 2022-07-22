@@ -4,6 +4,7 @@ description: ''
 file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/861b7da3913b14f7e29d7adafe38133e_MITEC_S07F04_sioux_city_ia.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

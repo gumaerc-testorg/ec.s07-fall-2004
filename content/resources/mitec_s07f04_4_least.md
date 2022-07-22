@@ -6,6 +6,7 @@ file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/45c31263a0c04d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Photovoltaic Systems-Least Squares Fit of Straight Line to Data
 uid: 45c31263-a0c0-4d64-bd85-71535d3c4cac
 ---
 This file contains information regarding photovoltaic systems - least squares fit of straight line to data.
-

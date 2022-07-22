@@ -6,6 +6,7 @@ file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/623bd82d15fd77
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Photovoltaic Solar Energy Systems - The Solar Resource
 uid: 623bd82d-15fd-7791-d6fd-973b743d7e44
 ---
 This file contains information regarding photovoltaic solar energy systems - the solar resource.
-

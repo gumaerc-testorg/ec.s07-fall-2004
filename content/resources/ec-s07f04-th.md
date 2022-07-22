@@ -10,10 +10,10 @@ image_metadata:
   credit: Image courtesy of Prof. Louis Bucciarelli and Gregory Schroll.
   image-alt: A screen capture of the PV Simulation.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s07f04-th.jpg
 uid: 678698ac-fcea-b5f6-51e5-35419e1ad223
 ---
 An image of the Photovoltaic Panel Simulation developed for the class. Image courtesy of Prof. Louis Bucciarelli and Gregory Schroll.
-

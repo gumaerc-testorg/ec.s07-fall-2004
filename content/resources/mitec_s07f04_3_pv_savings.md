@@ -6,6 +6,7 @@ file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/6ac100cb79d951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: County of Alameda -General Services Agency Net Present Value - Annual PG 
 uid: 6ac100cb-79d9-515c-1e13-cfb1ad55259b
 ---
 This file contains information regarding county of alameda - general services agency net present value - annual pg & e bill savings.
-

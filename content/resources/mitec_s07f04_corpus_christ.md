@@ -4,6 +4,7 @@ description: ''
 file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/173160ee8449f76096e172d3cf258030_MITEC_S07F04_corpus_christ.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

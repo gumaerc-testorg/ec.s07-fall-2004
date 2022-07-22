@@ -6,6 +6,7 @@ file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/cf5da53c0b365b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Present Worth of Tomorrow's Benefits
 uid: cf5da53c-0b36-5bfa-0bf1-7c23dac6dd87
 ---
 This file contains information regarding present worth of tomorrow's benefits.
-
