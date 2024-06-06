@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding homework assignment instructions.
   Each of these homework exercises are intended build up to the final report.
 file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/3693d68842761794119364975641280e_MITEC_S07F04_final_report.pdf
+file_size: 88561
 file_type: application/pdf
 learning_resource_types:
 - Assignments

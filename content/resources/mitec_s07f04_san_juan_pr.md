@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/9b851de9cbf286eeeb3219a21f1d1eef_MITEC_S07F04_san_juan_pr.pdf
+file_size: 7635758
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
