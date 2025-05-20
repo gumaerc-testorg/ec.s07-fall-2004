@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/173160ee8449f76096e172d3cf258030_MITEC_S07F04_corpus_christ.pdf
+file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/173160ee8449f76096e172d3cf258030_MITEC_S07F04_corpus_christ.pdf
 file_size: 5176586
 file_type: application/pdf
 learning_resource_types: []
