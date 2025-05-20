@@ -2,7 +2,7 @@
 content_type: resource
 description: An image of the Photovoltaic Panel Simulation developed for the class.
   Image courtesy of Prof. Louis Bucciarelli and Gregory Schroll.
-file: /ol-ocw-studio-app/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/678698acfceab5f651e535419e1ad223_ec-s07f04-th.jpg
+file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/678698acfceab5f651e535419e1ad223_ec-s07f04-th.jpg
 file_size: 8465
 file_type: image/jpeg
 image_metadata:
