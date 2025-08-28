@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/0a020b7ffc95bbc4a540f5453eb9090a_MITEC_S07F04_new_york_city.pdf
+file: /ol-ocw-studio-app/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/0a020b7ffc95bbc4a540f5453eb9090a_MITEC_S07F04_new_york_city.pdf
 file_size: 7392744
 file_type: application/pdf
 learning_resource_types: []
